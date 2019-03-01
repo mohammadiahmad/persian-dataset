@@ -25,3 +25,4 @@ The data for each category is stored in files corresponding to the category name
 ```
 Download link for data is stored in `data.txt` file.
 
+#persian text classification 
