@@ -23,6 +23,6 @@ The data for each category is stored in files corresponding to the category name
   "text": " به گزارش حوزه امنیتی دفاعی گروه سیاسی باشگاه خبرنگاران جوان به نقل از عصر هامون، شهید مرتضی علی احمدی در تیرماه ۱۳۹۵ به عنوان مسئول سازمان فضای مجازی بسیج شهرستان نیکشهر معرفی شد و مدت ٦ ماه با قرارگاه فضای مجازی بسیج استان سیستان و بلوچستان همکاری داشت. او در سال ۹۶ مسئولیت شباب این ناحیه را بر عهده گرفت و پس از آن به مجموعه فاوا پیوست. گفتنی است، این شهید بزرگوار متولد ۱۳۷۲ در زاهدان بود."
 }
 ```
-Download link for data is stored in `data.txt` file.
+Download link: https://www.dropbox.com/s/084prex1jfu5u1n/yjc_news.tar.gz?dl=0
 
 #persian text classification 
